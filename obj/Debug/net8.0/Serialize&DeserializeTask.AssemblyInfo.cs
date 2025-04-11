@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Serialize&DeserializeTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9285d20302587f54da39a52e5a96ee53bb91b0f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Serialize&DeserializeTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Serialize&DeserializeTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
