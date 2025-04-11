@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\Serialize\u0026DeserializeTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3B0AB6-9D23-4FFC-9C34-FA6AA41F16B0}|Serialize\u0026DeserializeTask.csproj|c:\\users\\asus\\desktop\\folders\\codeacademytasks\\serialize\u0026deserializetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3B0AB6-9D23-4FFC-9C34-FA6AA41F16B0}|Serialize\u0026DeserializeTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3B0AB6-9D23-4FFC-9C34-FA6AA41F16B0}|Serialize\u0026DeserializeTask.csproj|c:\\users\\asus\\desktop\\folders\\codeacademytasks\\serialize\u0026deserializetask\\jsonfile\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE3B0AB6-9D23-4FFC-9C34-FA6AA41F16B0}|Serialize\u0026DeserializeTask.csproj|solutionrelative:jsonfile\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\Serialize\u0026DeserializeTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\Serialize\u0026DeserializeTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:53:20.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Names.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\Serialize\u0026DeserializeTask\\JsonFIle\\Names.json",
+              "RelativeDocumentMoniker": "JsonFIle\\Names.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\Serialize\u0026DeserializeTask\\JsonFIle\\Names.json",
+              "RelativeToolTip": "JsonFIle\\Names.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T07:54:44.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1883,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

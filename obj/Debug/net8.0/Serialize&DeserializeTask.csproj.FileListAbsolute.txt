@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\bin\Debug\net8.0\Serialize&DeserializeTask.exe
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\bin\Debug\net8.0\Serialize&DeserializeTask.deps.json
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\bin\Debug\net8.0\Serialize&DeserializeTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\bin\Debug\net8.0\Serialize&DeserializeTask.dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\bin\Debug\net8.0\Serialize&DeserializeTask.pdb
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\obj\Debug\net8.0\Serialize&DeserializeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\obj\Debug\net8.0\Serialize&DeserializeTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\obj\Debug\net8.0\Serialize&DeserializeTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\obj\Debug\net8.0\Serialize&DeserializeTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\obj\Debug\net8.0\Serialize&DeserializeTask.dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\obj\Debug\net8.0\refint\Serialize&DeserializeTask.dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\obj\Debug\net8.0\Serialize&DeserializeTask.pdb
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\obj\Debug\net8.0\Serialize&DeserializeTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\obj\Debug\net8.0\ref\Serialize&DeserializeTask.dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\obj\Debug\net8.0\Serialize&DeserializeTask.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\Serialize&DeserializeTask\obj\Debug\net8.0\Serializ.1C635B99.Up2Date
